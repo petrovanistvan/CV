@@ -4,10 +4,16 @@ ul {
   margin-bottom: 10px;
 }
 
+.none {
+  list-style-type: none;
+}
+
 h2 {
   text-transform: uppercase;
   margin-left: 5px;
   font-family: "Josefin Sans", sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0;
 }
 
 h3 {
@@ -43,13 +49,13 @@ li {
 }
 
 .left {
-  width: 31%;
+  width: 35%;
   background-color: #5ea8e52d;
   height: 99vh;
 }
 
 .right {
-  width: 69%;
+  width: 65%;
 }
 
 img {
