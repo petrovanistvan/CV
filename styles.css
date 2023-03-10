@@ -1,118 +1,118 @@
 ul {
-  list-style-type: square;
-  margin-top: 15px;
-  margin-bottom: 10px;
+list-style-type: square;
+margin-top: 15px;
+margin-bottom: 10px;
 }
 
 .none {
-  list-style-type: none;
+list-style-type: none;
 }
 
 h2 {
-  text-transform: uppercase;
-  margin-left: 5px;
-  font-family: "Josefin Sans", sans-serif;
-  margin-top: 0px;
-  margin-bottom: 0;
+text-transform: uppercase;
+margin-left: 5px;
+font-family: "Josefin Sans", sans-serif;
+margin-top: 0px;
+margin-bottom: 0;
 }
 
 h3 {
-  margin-top: 0px;
-  margin-bottom: 0;
-  font-family: "Josefin Sans", sans-serif;
-  font-size: 25px;
-  background-color: #5ea8e5;
-  color: white;
-  padding-left: 5px;
-  text-transform: uppercase;
+margin-top: 0px;
+margin-bottom: 0;
+font-family: "Josefin Sans", sans-serif;
+font-size: 25px;
+background-color: #5ea8e5;
+color: white;
+padding-left: 5px;
+text-transform: uppercase;
 }
 h4 {
-  margin-top: 15px;
-  font-family: "Merriweather", serif;
-  font-size: 15px;
-  padding-left: 5px;
-  text-transform: uppercase;
-  margin-bottom: 10px;
+margin-top: 15px;
+font-family: "Merriweather", serif;
+font-size: 15px;
+padding-left: 5px;
+text-transform: uppercase;
+margin-bottom: 10px;
 }
 
 main {
-  max-width: 960px;
-  margin: auto;
+max-width: 960px;
+margin: auto;
 }
 
 li {
-  font-family: "Josefin Sans", sans-serif;
+font-family: "Josefin Sans", sans-serif;
 }
 
 .column {
-  float: left;
+float: left;
 }
 
 .left {
-  width: 35%;
-  background-color: #5ea8e52d;
-  height: 99vh;
+width: 35%;
+background-color: #5ea8e52d;
+height: 100%;
 }
 
 .right {
-  width: 65%;
+width: 65%;
 }
 
 img {
-  width: 100%;
+width: 100%;
 }
 
 #profile {
-  border-radius: 100%;
+border-radius: 100%;
 }
 
 .mytextdiv {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  margin-bottom: 5px;
+display: flex;
+flex-direction: row;
+align-items: center;
+margin-bottom: 5px;
 }
 .mytexttitle {
-  flex-grow: 0;
-  padding-left: 5px;
+flex-grow: 0;
+padding-left: 5px;
 }
 
 .divider {
-  flex-grow: 1;
-  height: 1px;
-  background-color: black;
+flex-grow: 1;
+height: 1px;
+background-color: black;
 }
 
 #intro {
-  padding-left: 5px;
+padding-left: 5px;
 }
 
 a {
-  color: black;
+color: black;
 }
 
 .summary {
-  padding-left: 5px;
-  font-family: "Josefin Sans", sans-serif;
-  margin-top: 5px;
+padding-left: 5px;
+font-family: "Josefin Sans", sans-serif;
+margin-top: 5px;
 }
 
 @page {
-  margin: 0;
+margin: 0;
 }
 
 .coordinator {
-  margin-top: 15px;
+margin-top: 15px;
 }
 
 #school1 {
-  margin-bottom: 0;
+margin-bottom: 0;
 }
 
 #school2 {
-  margin-top: 0;
+margin-top: 0;
 }
 
 .padding {
-  padding-left: 20px;
+padding-left: 20px;
 }
