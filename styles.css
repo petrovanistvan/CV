@@ -118,5 +118,12 @@ padding-left: 20px;
 }
 
 .row {
-  height: 2225px;
+  height: 2220px;
+}
+
+@media print {
+  .pagebreak {
+      clear: both;
+      page-break-after: always;
+  }
 }
